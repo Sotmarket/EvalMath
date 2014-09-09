@@ -1,0 +1,15 @@
+{
+    "name": "sotmarket/evalmath",
+    "description": "Use the EvalMath class when you want to evaluate mathematical expressions from untrusted sources",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Miles Kaufmann"
+        }
+    ],
+
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
